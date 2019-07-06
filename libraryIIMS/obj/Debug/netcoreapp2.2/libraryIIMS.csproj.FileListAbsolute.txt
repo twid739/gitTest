@@ -1,0 +1,14 @@
+/Users/tifshine/Projects/libraryIIMS/libraryIIMS/bin/Debug/netcoreapp2.2/libraryIIMS.deps.json
+/Users/tifshine/Projects/libraryIIMS/libraryIIMS/bin/Debug/netcoreapp2.2/libraryIIMS.runtimeconfig.json
+/Users/tifshine/Projects/libraryIIMS/libraryIIMS/bin/Debug/netcoreapp2.2/libraryIIMS.runtimeconfig.dev.json
+/Users/tifshine/Projects/libraryIIMS/libraryIIMS/bin/Debug/netcoreapp2.2/libraryIIMS.dll
+/Users/tifshine/Projects/libraryIIMS/libraryIIMS/bin/Debug/netcoreapp2.2/libraryIIMS.pdb
+/Users/tifshine/Projects/libraryIIMS/libraryIIMS/obj/Debug/netcoreapp2.2/libraryIIMS.csprojAssemblyReference.cache
+/Users/tifshine/Projects/libraryIIMS/libraryIIMS/obj/Debug/netcoreapp2.2/libraryIIMS.csproj.CoreCompileInputs.cache
+/Users/tifshine/Projects/libraryIIMS/libraryIIMS/obj/Debug/netcoreapp2.2/libraryIIMS.RazorAssemblyInfo.cache
+/Users/tifshine/Projects/libraryIIMS/libraryIIMS/obj/Debug/netcoreapp2.2/libraryIIMS.RazorAssemblyInfo.cs
+/Users/tifshine/Projects/libraryIIMS/libraryIIMS/obj/Debug/netcoreapp2.2/libraryIIMS.AssemblyInfoInputs.cache
+/Users/tifshine/Projects/libraryIIMS/libraryIIMS/obj/Debug/netcoreapp2.2/libraryIIMS.AssemblyInfo.cs
+/Users/tifshine/Projects/libraryIIMS/libraryIIMS/obj/Debug/netcoreapp2.2/libraryIIMS.RazorTargetAssemblyInfo.cache
+/Users/tifshine/Projects/libraryIIMS/libraryIIMS/obj/Debug/netcoreapp2.2/libraryIIMS.dll
+/Users/tifshine/Projects/libraryIIMS/libraryIIMS/obj/Debug/netcoreapp2.2/libraryIIMS.pdb
